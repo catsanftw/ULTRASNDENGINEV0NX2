@@ -49,4 +49,4 @@ Create a new Pull Request.
 Please make sure to update tests as appropriate and adhere to the existing coding conventions.
 
 License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the APACHE  License - see the LICENSE.md file for details.
